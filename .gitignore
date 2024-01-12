@@ -1,0 +1,14 @@
+# Cargo
+target
+
+# IDE folders
+.vsconfig
+.vscode
+.idea
+*.DotSettings.user
+
+# Test folders
+temp
+
+# macOS
+.DS_Store
