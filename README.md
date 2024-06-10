@@ -48,8 +48,8 @@ telepath mirror origin --no-tree --combine
 
 ## Building from Source
 
-Telepath relies on *nightly rust*. You can install it by running:
+MSRV: 1.79.0
 
 ```shell
-rustup toolchain add nightly --profile minimal
+cargo build --release
 ```

@@ -1,5 +1,3 @@
-#![feature(absolute_path)]
-
 mod path;
 mod fs;
 mod glob;
